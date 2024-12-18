@@ -52,5 +52,4 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
   </a> 
-  <h4 align="left">About Me:</h4>
 </p>
