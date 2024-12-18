@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankita</h1>
+<h2 align="center">Data Science & AI/ML Enthusiast</h2>
 
-<h3 align="center">Email: <a href="mailto:chaudharyankita667@gmail.com">chaudharyankita667@gmail.com</a></h3>
+<p align="center">
+  <a href="mailto:chaudharyankita667@gmail.com">
+    <strong>Contact me</strong> at <u>chaudharyankita667@gmail.com</u>
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +23,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> 
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
@@ -47,4 +52,5 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
   </a> 
+  <h4 align="left">About Me:</h4>
 </p>
