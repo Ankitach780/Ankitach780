@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ankita, a Machine Learning and Deep Learning Engineer passionate about AI-driven solutions.
-
+👋 Hi, I'm Ankita, passionate about AI, ML, and Computer Vision. Turning ideas into impactful real-world projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankitachaudhary6526/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@chaudharyankita667) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/fcg6v3k2T) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Ankita2023679) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaudharyankita667@gmail.com) 
